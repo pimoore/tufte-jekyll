@@ -391,4 +391,5 @@ Enclose the code block in three backticks, followed by a space and then the lang
     blah, blah...
    ```</code> </pre>
 
+{% newthought 'This is something I added' %} to test how long it would take to rebuild the site with one single, simple change.
 
