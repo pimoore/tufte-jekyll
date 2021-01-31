@@ -1,4 +1,4 @@
-baseurl: /tufte-jekyll
+baseurl: tufte-jekyll.vercel.app
 title: Tufte-Jekyll
 subtitle: Content-centric blogging
 author: clay harmon
